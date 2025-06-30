@@ -1,0 +1,46 @@
+DECLARAÇÃO DE CONFORMIDADE LEGAL E ÉTICA NO ISO DE DADOS DA API DA CÂMARA DOS DEPUTADOS
+
+1. INTRODUÇÃO
+
+Este arquivo tem como objetivo declarar o compromisso com a legalidade e a ética na coleta e uso de dados obtidos por meio da API de Dados Abertos da Câmara dos Deputados, disponível em:
+
+https://dadosabertos.camara.leg.br
+
+A utilização dos dados segue os princípios da Lei Geral de Proteção de Dados (LGPD - Lei nº 13.709/2018), bem como os termos de uso e diretrizes estabelecidos pela própria Câmara dos Deputados.
+
+### 2. ORIGEM DOS DADOS
+
+Os dados utilizados neste projeto são obtidos exclusivamente por meio do portal oficial de Dados Abertos da Câmara dos Deputados, conforme disponibilizado publicamente na URL citado anteriormente.
+
+De acordo com a Câmara dos Deputados, os dados disponibilizados são provenientes de sistemas internos e são dados públicos, não exigindo autenticação ou cadastro para seu consumo.
+
+3. CONFORMIDADE COM A LGPD
+
+A LGPD estabelece diretrizes sobre o tratamento de dados pessoais, buscando assegurar o direito à privacidade, liberdade de expressão e proteção de dados. 
+
+No contexto deste projeto:
+
+- Dados Pessoais Sensíveis: Não são coletados dados sensíveis ou pessoais identificáveis de cidadãos ou parlamentares, conforme a própria Câmara informa em seu FAQ. Dados de caráter pessoal e/ou familiar de parlamentares e colaboradores são suprimidos ou anonimizados, conforme o Ato da Mesa 45/2012;
+
+- Base Legal para Tratamento: A base legal para a utilização desses dados é o interesse legítimo e o cumprimento de obrigação legal, já que os dados são públicos e disponibilizados por obrigação de transparência da administração pública;
+
+- Finalidade: Os dados são utilizados estritamente para fins de análise, visualização pública e pesquisa de uma solução em Machine Learning.
+
+- Minimização de Dados: Apenas os dados necessários para atingir os fins legítimos propostos são coletados, evitando qualquer tipo de uso abusivo ou desnecessário.
+
+4. TERMOS DE USO DA API
+
+De acordo com as diretrizes do portal de Dados Abertos da Câmara:
+
+- O uso da API é livre e gratuito, não sendo necessário cadastro.
+
+- O portal incentiva a criação de aplicativos, análises e visualizações com os dados.
+
+- É permitida a comercialização de produtos e serviços baseados nesses dados, desde que não se infrinjam as leis em vigor ou os princípios éticos e legais.
+
+No fim, não há restrições quanto à reutilização dos dados, desde que preservada a integridade e a veracidade das informações.
+
+5. CONSIDERAÇÕES FINAIS
+
+A coleta e o uso de dados da API da Câmara dos Deputados seguem rigorosamente os preceitos legais, éticos e técnicos vigentes no Brasil.
+Este compromisso visa garantir que o uso de informações públicas respeite os direitos fundamentais do cidadão e promova uma sociedade mais informada, justa e transparente.
