@@ -1,11 +1,13 @@
 import streamlit as st
 import pandas as pd
-import pickle
+import pickle, os
 
-@st.cache(allow_output_mutation=True)
+@st.cache_resource
 def load_pipeline():
-    # aqui salvamos pipeline completo (preprocessor + model) em 'pipeline.pkl'
-    with open("pipeline.pkl", "rb") as f:
+    # monta caminho absoluto relativo a este script
+    base = os.path.dirname(__file__)
+    path = os.path.join(base, "modelo_random_forest_20250630_1632.pkl")
+    with open(path, "rb") as f:
         return pickle.load(f)
 
 pipeline = load_pipeline()
